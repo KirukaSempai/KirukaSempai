@@ -1,4 +1,4 @@
-<h1 align="center">I am self proclamed Front-end developer <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/Acheron_Sticker_01.png/revision/latest?cb=20240329055157" alt="css3" width="60" height="60"/></h1> 
+<h1 align="center">I am self proclamed Front-end developer </h1> 
 
 <h3 align="center">My suffer must continue</h3>
 
