@@ -1,4 +1,4 @@
-<h1 align="center">I am self proclamed Front-end developer </h1> 
+<h1 align="center">I am self proclamed Front-end developer|Beginner game developer </h1> 
 
 <h3 align="center">My suffer must continue</h3>
 
